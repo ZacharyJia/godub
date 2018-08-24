@@ -1,0 +1,6 @@
+hash: fc457569ab77e4b67b7a43f16ed156eed3a952ccb8a17301443e7a96a57bd929
+updated: 2018-08-24T14:57:31.024249+08:00
+imports:
+- name: github.com/cryptix/wav
+  version: 8bdace674401f0bd3b63c65479b6a6ff1f9d5e44
+testImports: []
